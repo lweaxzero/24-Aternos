@@ -89,8 +89,8 @@ Running on your computer
  * File needs to be edited:
 
 ```js
-host: "localhost",
-port: "25565",
+host: "dcagalarmc.aternos.me",
+port: "11790",
 username: "24ATERNOSBOT"
 ```
  * node bot.js
